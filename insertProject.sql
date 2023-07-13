@@ -1,0 +1,16 @@
+insert into project(id, title , img,url, project) values(1,'Tutorial','./images/00.png','https://grace-react-tutorial.netlify.app/', 'tutorial');
+insert into project(id, title , img,url, project) values(2,'Birthday Reminder','./images/01.png','https://grace-react-01-birthday-reminder.netlify.app/', 'basic');
+insert into project(id, title , img,url, project) values(3,'Tours','./images/02.png','https://grace-react-02-tours.netlify.app', 'basic');  
+insert into project(id, title , img,url, project) values(4,'Reviews','./images/03.png','https://grace-react-03-reviews.netlify.app/', 'basic');
+insert into project(id, title , img,url, project) values(5,'Accordion','./images/04.png','https://grace-react-04-accordion.netlify.app/', 'basic');
+insert into project(id, title , img,url, project) values(6,'Menu','./images/05.png','https://grace-react-05-menu.netlify.app/', 'basic');   
+insert into project(id, title , img,url, project) values(7,'Tabs','./images/06.png','https://grace-react-06-tabs.netlify.app/', 'basic');   
+insert into project(id, title , img,url, project) values(8,'Slider','./images/07.png','https://grace-react-07-slider.netlify.app/', 'basic'); 
+insert into project(id, title , img,url, project) values(9,'Text Generator','./images/08.png','https://grace-react-08-lorem-ipsum.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(10,'Color Generator','./images/09.png','https://grace-react-09-color-generator.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(11,'Grocery Bud','./images/10.png','https://grace-react-10-grocery-bud.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(12,'Navbar','./images/11.png','https://grace-react-11-navbar.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(13,'Sidebar','./images/12.png','https://grace-react-12-sidebar-modal.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(14,'Submenus','./images/13.png','https://grace-react-13-stripe-submenus.netlify.app/', 'advance');
+insert into project(id, title , img,url, project) values(15,'Cart','./images/14.png','https://grace-react-14-cart.netlify.app/', 'advance');  
+insert into project(id, title , img,url, project) values(16,'[Upcoming project] e-Commerce','./images/15.png','#', 'large-scale');
